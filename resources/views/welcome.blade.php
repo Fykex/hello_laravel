@@ -38,7 +38,11 @@
     <body>
         <div class="container">
             <div class="content">
+<<<<<<< HEAD
                 <div class="title">Laravel 5</div>
+=======
+                <div class="title">Hello Laravel!</div>
+>>>>>>> 372436a98068f84485caff9c67493c59736ca5b6
             </div>
         </div>
     </body>
